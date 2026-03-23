@@ -52,9 +52,9 @@ ids_project/
 ```
 
 ## Author
-- **Your Name**
-- Course: [Your Course Name]
-- Institution: [Your University]
+- **Emmanuel Akwasi Opoku**
+- Course: Computer Science & Cybersecurity
+- Institution: Grambling State University
 ```
 
 ---
