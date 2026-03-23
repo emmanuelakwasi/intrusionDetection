@@ -45,7 +45,7 @@ malicious network traffic:
 ```
 ids_project/
 │
-├── data/           # Dataset files (not uploaded)
+├── data/           # Dataset files
 ├── notebooks/      # Jupyter notebooks
 ├── src/            # Python scripts
 └── results/        # Saved charts and outputs
@@ -57,5 +57,4 @@ ids_project/
 - Institution: Grambling State University
 ```
 
----
 
