@@ -11,13 +11,13 @@ malicious network traffic:
 - Random Forest
 - Support Vector Machine (SVM)
 
-## 📂 Dataset
+## Dataset
 - **NSL-KDD Dataset** — a benchmark dataset for network intrusion detection
 - 125,973 training records | 22,544 test records
 - 41 network traffic features + 1 label (Normal or Attack)
 - Source: [Kaggle — NSL-KDD](https://www.kaggle.com/datasets/hassan06/nslkdd)
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - Python 3
 - pandas, numpy
 - scikit-learn
@@ -25,14 +25,14 @@ malicious network traffic:
 - matplotlib, seaborn
 - Jupyter Notebook
 
-## ⚙️ Methodology
+## Methodology
 1. Data loading and exploration
 2. Preprocessing — encoding, scaling, binary labels
 3. Class balancing with SMOTE
 4. Model training and evaluation
 5. Comparison using Accuracy, Precision, Recall, F1-Score
 
-## 📊 Results
+## Results
 *(To be updated as models are completed)*
 
 | Model | Accuracy | Precision | Recall | F1-Score |
@@ -41,7 +41,7 @@ malicious network traffic:
 | Random Forest | TBD | TBD | TBD | TBD |
 | SVM | TBD | TBD | TBD | TBD |
 
-## 📁 Project Structure
+## Project Structure
 ```
 ids_project/
 │
@@ -51,7 +51,7 @@ ids_project/
 └── results/        # Saved charts and outputs
 ```
 
-## 👤 Author
+## Author
 - **Your Name**
 - Course: [Your Course Name]
 - Institution: [Your University]
@@ -59,6 +59,3 @@ ids_project/
 
 ---
 
-### 📌 Step 3 — Commit It
-Scroll down, add commit message:
-```
